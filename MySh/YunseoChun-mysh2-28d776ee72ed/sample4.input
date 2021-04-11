@@ -1,0 +1,4 @@
+cd /tmp
+cd /bin/ls
+cd /never-never-exist
+pwd
